@@ -1,0 +1,1 @@
+{"Topology":{"TopologyId":"bc3a2cbc-8703-4555-98b3-3965d4ad1f71","Members":{"A":"http://localhost:8080"},"Promotables":{},"Watchers":{},"LastNodeId":"A","Etag":2},"Leader":"A","NodeTag":"A","Etag":2,"PersistedAt":"2023-04-11T16:21:47.9384481+00:00"}
